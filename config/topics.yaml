@@ -1,0 +1,14 @@
+# BERTopic parameters for `cli.main discover`. Meaning and tuning of every key: docs/it/code/config/topics.md
+min_words: 5
+min_topic_size: 10
+min_samples: null
+cluster_selection: leaf
+n_neighbors: 15
+n_components: 5
+random_state: 42
+ngram_max: 2
+min_df: 2
+top_n_words: 10
+n_examples: 3
+center_languages: true
+stop_words_file: config/topic_stopwords.yaml

@@ -1,0 +1,7 @@
+# Accounts whose messages are dropped before building windows and pairs.
+# Managed with `cli.main blocklist list|add|remove`; editing by hand works too.
+accounts:
+- from_id: user386048772
+  name: PoliNetwork Bot 🤖
+- from_id: user768169879
+  name: PoliNetwork Bot 3

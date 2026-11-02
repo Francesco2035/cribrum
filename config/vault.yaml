@@ -1,0 +1,6 @@
+# Parameters of `cli.main export` (Obsidian vault). Meaning of every key: docs/it/code/config/vault.md
+top_k: 3
+min_similarity: 0.4
+label_words: 3
+max_windows: 40
+max_message_chars: 500

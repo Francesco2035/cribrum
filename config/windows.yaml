@@ -1,0 +1,81 @@
+# Parameters for conversation windows. Meaning and tuning of every key: docs/it/code/config/windows.md
+# All times are in seconds.
+
+tokenizer_model: "intfloat/multilingual-e5-base"
+
+default_chat_type: course
+chat_types:
+  "1525042706": course     # DATA MINING (datamining.json)
+  "1375240639": general    # T2I - Computer Science and Engineering Polimi (t2i.json)
+  "1153313117": general    # Computer Science and Engineering Polimi Master (CSGeneral.json)
+  # every other export (anndl, computer_ethics, MAS, NLP, RS, UAI): course via default_chat_type
+
+gap:
+  course: 600
+  general: 900
+
+reply_max_gap: 21600
+burst_gap: 120
+dependent_gap: 300
+mention_gap: 1800
+
+max_messages: 40
+max_tokens: 512
+overlap: 0
+
+short_max_messages: 1
+short_min_tokens: 8
+
+include:
+  service: false
+  media: true
+  forwarded: true
+  poll: true
+
+dependent_phrases:
+  - ok
+  - okay
+  - okk
+  - oki
+  - va bene
+  - perfetto
+  - confermo
+  - confermato
+  - esatto
+  - giusto
+  - vero
+  - grazie
+  - grazie mille
+  - grazie a te
+  - grz
+  - thanks
+  - thank you
+  - thx
+  - ty
+  - idem
+  - anche io
+  - anchio
+  - pure io
+  - me too
+  - "+1"
+  - si
+  - sì
+  - no
+  - yes
+  - top
+  - ottimo
+  - capito
+  - ah ok
+  - ah ecco
+  - 👍
+  - 🙏
+  - 😂
+
+mention_aliases: {}
+  # username (without @, lowercase): from_id, e.g.
+  # kraut_lobster: user5626131295
+
+inspect:
+  seed: 42
+  sample_size: 20
+  top_longest: 5

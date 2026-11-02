@@ -1,0 +1,7 @@
+# Parameters of `cli.main facets`. Meaning and tuning of every key: docs/it/code/config/facets.md
+merge_similarity: 0.45
+min_chats: 2
+member_percentile: 25
+top_n_words: 10
+n_examples: 3
+stop_words_file: config/topic_stopwords.yaml

@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Local data: vector DB (regenerable) and raw chat exports (private)
+data/chroma_db/*
+!data/chroma_db/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+data/exports/*
+!data/exports/.gitkeep
+data/debug/
+debug/
+
+# Personal notes
+UV_GUIDE.md
+
+# Derived conversation windows (regenerable)
+data/windows/*
+
+# Text batches exported for assisted labelling (contain chat text)
+data/labels/batches/
+
+# Cached message embeddings for the merge model (regenerable)
+data/cache/
+
+# Trained merge models: only the default baseline is published (no chat text inside)
+data/models/*
+!data/models/merge_model.pkl
+!data/models/merge_model.json
+
+# Window embeddings and topics (regenerable with `embed` and `discover`)
+data/embeddings/
+data/topics/
+
+# Generated Obsidian vault (contains chat text; regenerable with `export`)
+vault/
+
+# Facets (regenerable with `facets`)
+data/facets/

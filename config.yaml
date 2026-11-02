@@ -1,0 +1,55 @@
+# Configurazione di Cribrum.
+# I valori non ancora usati nel codice sono qui per evitare di dover
+# riscrivere config.py quando arriveranno i moduli corrispondenti.
+
+paths:
+  raw_data: "data/exports"        # cartella export JSON da ingest
+  chroma_db: "data/chroma_db"       # persistenza vector DB
+  debug_dir: "data/debug"           # output di --dump-json
+  blocklist: "config/blocklist.yaml" # account esclusi da finestre e annotazione (comando `blocklist`)
+  merge_cues: "config/merge_cues.yaml" # liste di parole delle feature testuali del modello delle unioni
+
+ingest:
+  min_text_length: 2                # sotto questa soglia, un messaggio standalone viene scartato
+  max_chain_depth: 50                # limite di sicurezza per la risalita dei thread
+  sticker_emoji_map:                 # emoji sticker -> parola, usato in _extract_text
+    "👍": "sì"
+    "👎": "no"
+    "✅": "sì"
+    "👌": "sì"
+    "❌": "no"
+
+embedding:
+  model_name: "intfloat/multilingual-e5-base"
+  batch_size: 32
+  query_prefix: "query: "
+  passage_prefix: "passage: "
+
+vectorstore:
+  collection_name: "cribrum_messages"
+  distance_metric: "cosine"          # non ancora usato: per quando configuriamo ChromaDB
+
+search:
+  default_k: 5                        # numero di risultati di default
+  min_similarity: 0.7                 # soglia sotto la quale uno risultato si considera "non pertinente"
+
+chunking:
+  implicit_qa_enabled: true            # abilita/disabilita le coppie adiacenti senza reply esplicito
+  explicit_qa_enabled: true
+
+ollama:
+  enabled: false                        # sintesi LLM disattivata di default
+  model_name: "llama3.2:3b"
+  host: "http://localhost:11434"        # non ancora usato: per quando synth.py parlerà con Ollama
+  max_messages_for_synthesis: 10         # quanti SearchResult passare al massimo all'LLM
+
+courses:
+  aliases_file: "data/courses.json"      # mapping corso/sigla/prof per il tagging (non ancora usato)
+
+dates:
+  min_date: "2023-01-01"                  # messaggi prima di questa data (inclusa) esclusi dalle finestre; null = nessun limite
+  max_date: null                          # messaggi da questa data in poi esclusi; null = nessun limite
+
+logging:
+  level: "INFO"                           # sovrascritto da --verbose se passato
+  format: "%(asctime)s [%(levelname)s] %(name)s: %(message)s"

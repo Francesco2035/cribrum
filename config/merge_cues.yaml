@@ -1,0 +1,67 @@
+# Word lists behind the text-cue features of the merge model. Meaning and how to edit: docs/it/code/config/merge_cues.md
+# Phrases are matched on the normalised text (lowercase, no punctuation): "c'è qualcuno" and "cè qualcuno" are the same.
+# After editing, retrain with `cli.main merge train`: the lists are saved inside the model.
+
+# The message addresses the whole group, anywhere in the text: usually a new question.
+group_request:
+  - qualcuno
+  - nessuno
+  - someone
+  - somebody
+  - anyone
+  - anybody
+  - everyone
+  - ragazzi
+  - raga
+  - guys
+  - a tutti
+
+# The message starts like an answer to what was just said.
+answer_start:
+  - "yes"
+  - yeah
+  - yep
+  - yup
+  - "no"
+  - nope
+  - sì
+  - esatto
+  - exactly
+  - right
+  - i think
+  - i guess
+  - i believe
+  - credo
+  - penso
+  - secondo me
+  - capito
+  - ah
+  - dipende
+  - depends
+  - maybe
+  - forse
+  - probably
+  - probabilmente
+  - giusto
+  - certo
+  - of course
+  - sure
+  - idk
+  - boh
+  - non so
+  - i dont
+
+# The message starts by referring back to something already said.
+anaphora_start:
+  - he
+  - she
+  - it
+  - they
+  - lui
+  - lei
+  - loro
+  - è
+  - that
+  - quello
+  - quella
+  - questo

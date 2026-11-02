@@ -1,0 +1,103 @@
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 34018, "prev_id": 34017, "gap_s": 2030, "band": "1200-2400", "label": "new", "labelled_at": "2026-10-31T23:55:36"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 36411, "prev_id": 36410, "gap_s": 173, "band": "120-300", "label": "new", "labelled_at": "2026-11-01T00:03:45"}
+{"chat": "RS", "chat_id": 1424968769, "message_id": 8406, "prev_id": 8405, "gap_s": 2385, "band": "1200-2400", "label": "same", "labelled_at": "2026-11-01T00:04:11"}
+{"chat": "MAS", "chat_id": 1171936095, "message_id": 3241, "prev_id": 3240, "gap_s": 5585, "band": "5400-10800", "label": "same", "labelled_at": "2026-11-01T00:04:20"}
+{"chat": "MAS", "chat_id": 1171936095, "message_id": 3611, "prev_id": 3610, "gap_s": 18, "band": "0-120", "label": "same", "labelled_at": "2026-11-01T00:04:24"}
+{"chat": "RS", "chat_id": 1424968769, "message_id": 7453, "prev_id": 7452, "gap_s": 108, "band": "0-120", "label": "same", "labelled_at": "2026-11-01T00:04:39"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 15159, "prev_id": 15158, "gap_s": 449, "band": "300-600", "label": "same", "labelled_at": "2026-11-01T00:04:53"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 30517, "prev_id": 30515, "gap_s": 7160, "band": "5400-10800", "label": "new", "labelled_at": "2026-11-01T00:05:53"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 4762, "prev_id": 4761, "gap_s": 5714, "band": "5400-10800", "label": "new", "labelled_at": "2026-11-01T00:06:00"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 2558, "prev_id": 2557, "gap_s": 2542, "band": "2400-5400", "label": "new", "labelled_at": "2026-11-01T00:06:14"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 28290, "prev_id": 28289, "gap_s": 1915, "band": "1200-2400", "label": "new", "labelled_at": "2026-11-01T00:07:12"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 37519, "prev_id": 37517, "gap_s": 5539, "band": "5400-10800", "label": "new", "labelled_at": "2026-11-01T00:10:01"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 14104, "prev_id": 14103, "gap_s": 103, "band": "0-120", "label": "same", "labelled_at": "2026-11-01T00:10:14"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 4482, "prev_id": 4481, "gap_s": 3243, "band": "2400-5400", "label": "same", "labelled_at": "2026-11-01T00:12:02"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 30017, "prev_id": 30016, "gap_s": 681, "band": "600-1200", "label": "same", "labelled_at": "2026-11-01T00:12:33"}
+{"chat": "t2i", "chat_id": 1375240639, "message_id": 4030, "prev_id": 4029, "gap_s": 12, "band": "0-120", "label": "same", "labelled_at": "2026-11-01T00:13:08"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 38253, "prev_id": 38252, "gap_s": 2668, "band": "2400-5400", "label": "same", "labelled_at": "2026-11-01T00:13:18"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 4046, "prev_id": 4045, "gap_s": 473, "band": "300-600", "label": "same", "labelled_at": "2026-11-01T00:13:23"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 30107, "prev_id": 30104, "gap_s": 5347, "band": "2400-5400", "label": "new", "labelled_at": "2026-11-01T00:14:00"}
+{"chat": "MAS", "chat_id": 1171936095, "message_id": 2925, "prev_id": 2924, "gap_s": 412, "band": "300-600", "label": "same", "labelled_at": "2026-11-01T00:15:15"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 26042, "prev_id": 26040, "gap_s": 1394, "band": "1200-2400", "label": "new", "labelled_at": "2026-11-01T00:15:23"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 25436, "prev_id": 25435, "gap_s": 9366, "band": "5400-10800", "label": "same", "labelled_at": "2026-11-01T00:17:19"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 27350, "prev_id": 27347, "gap_s": 6029, "band": "5400-10800", "label": "unsure", "labelled_at": "2026-11-01T00:17:25"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 3378, "prev_id": 3377, "gap_s": 89, "band": "0-120", "label": "same", "labelled_at": "2026-11-01T00:17:43"}
+{"chat": "RS", "chat_id": 1424968769, "message_id": 8216, "prev_id": 8215, "gap_s": 977, "band": "600-1200", "label": "same", "source": "human", "labelled_at": "2026-11-01T19:46:38"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 29061, "prev_id": 29060, "gap_s": 15, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T19:46:50"}
+{"chat": "t2i", "chat_id": 1375240639, "message_id": 3232, "prev_id": 3231, "gap_s": 654, "band": "600-1200", "label": "same", "source": "human", "labelled_at": "2026-11-01T19:47:04"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 2550, "prev_id": 2549, "gap_s": 3552, "band": "2400-5400", "label": "new", "source": "human", "labelled_at": "2026-11-01T19:47:14"}
+{"chat": "computer_ethics", "chat_id": 1449591731, "message_id": 4981, "prev_id": 4980, "gap_s": 2866, "band": "2400-5400", "label": "same", "source": "human", "labelled_at": "2026-11-01T19:47:25"}
+{"chat": "datamining", "chat_id": 1525042706, "message_id": 1373, "prev_id": 1372, "gap_s": 1825, "band": "1200-2400", "label": "new", "source": "human", "labelled_at": "2026-11-01T19:47:59"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 33342, "prev_id": 33341, "gap_s": 3398, "band": "2400-5400", "label": "same", "source": "human", "labelled_at": "2026-11-01T19:48:05"}
+{"chat": "computer_ethics", "chat_id": 1449591731, "message_id": 4460, "prev_id": 4459, "gap_s": 1192, "band": "600-1200", "label": "same", "source": "human", "labelled_at": "2026-11-01T19:51:17"}
+{"chat": "computer_ethics", "chat_id": 1449591731, "message_id": 4606, "prev_id": 4605, "gap_s": 170, "band": "120-300", "label": "same", "source": "human", "labelled_at": "2026-11-01T19:51:56"}
+{"chat": "MAS", "chat_id": 1171936095, "message_id": 3707, "prev_id": 3706, "gap_s": 515, "band": "300-600", "label": "same", "source": "human", "labelled_at": "2026-11-01T19:52:36"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 25946, "prev_id": 25942, "gap_s": 2729, "band": "2400-5400", "label": "new", "source": "human", "labelled_at": "2026-11-01T19:52:44"}
+{"chat": "datamining", "chat_id": 1525042706, "message_id": 1659, "prev_id": 1658, "gap_s": 200, "band": "120-300", "label": "unsure", "source": "human", "labelled_at": "2026-11-01T19:53:23"}
+{"chat": "RS", "chat_id": 1424968769, "message_id": 6489, "prev_id": 6488, "gap_s": 6153, "band": "5400-10800", "label": "new", "source": "human", "labelled_at": "2026-11-01T19:53:44"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 34718, "prev_id": 34717, "gap_s": 870, "band": "600-1200", "label": "new", "source": "human", "labelled_at": "2026-11-01T19:53:50"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 11819, "prev_id": 11818, "gap_s": 4, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T19:53:53"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 27876, "prev_id": 27875, "gap_s": 692, "band": "600-1200", "label": "new", "source": "human", "labelled_at": "2026-11-01T19:54:00"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 38721, "prev_id": 38720, "gap_s": 540, "band": "300-600", "label": "new", "source": "human", "labelled_at": "2026-11-01T19:56:30"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 23904, "prev_id": 23903, "gap_s": 471, "band": "300-600", "label": "new", "source": "human", "labelled_at": "2026-11-01T19:56:56"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 30437, "prev_id": 30435, "gap_s": 233, "band": "120-300", "label": "same", "source": "human", "labelled_at": "2026-11-01T19:57:34"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 41558, "prev_id": 41553, "gap_s": 7377, "band": "5400-10800", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:02:39"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 27859, "prev_id": 27858, "gap_s": 1748, "band": "1200-2400", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:02:52"}
+{"chat": "RS", "chat_id": 1424968769, "message_id": 7073, "prev_id": 7072, "gap_s": 2745, "band": "2400-5400", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:03:04"}
+{"chat": "t2i", "chat_id": 1375240639, "message_id": 4051, "prev_id": 4050, "gap_s": 2672, "band": "2400-5400", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:03:25"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 11231, "prev_id": 11230, "gap_s": 2234, "band": "1200-2400", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:03:32"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 33891, "prev_id": 33890, "gap_s": 132, "band": "120-300", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:04:27"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 27063, "prev_id": 27062, "gap_s": 150, "band": "120-300", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:04:55"}
+{"chat": "MAS", "chat_id": 1171936095, "message_id": 2991, "prev_id": 2990, "gap_s": 155, "band": "120-300", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:05:21"}
+{"chat": "t2i", "chat_id": 1375240639, "message_id": 3433, "prev_id": 3432, "gap_s": 5412, "band": "5400-10800", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:05:31"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 10771, "prev_id": 10770, "gap_s": 701, "band": "600-1200", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:05:37"}
+{"chat": "computer_ethics", "chat_id": 1449591731, "message_id": 5119, "prev_id": 5118, "gap_s": 9694, "band": "5400-10800", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:05:40"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 23901, "prev_id": 23900, "gap_s": 546, "band": "300-600", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:05:43"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 12825, "prev_id": 12824, "gap_s": 198, "band": "120-300", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:06:10"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 24142, "prev_id": 24141, "gap_s": 196, "band": "120-300", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:06:23"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 24933, "prev_id": 24932, "gap_s": 34, "band": "0-120", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:06:43"}
+{"chat": "t2i", "chat_id": 1375240639, "message_id": 4250, "prev_id": 4249, "gap_s": 292, "band": "120-300", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:06:58"}
+{"chat": "computer_ethics", "chat_id": 1449591731, "message_id": 3871, "prev_id": 3870, "gap_s": 29, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:07:14"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 36392, "prev_id": 36391, "gap_s": 210, "band": "120-300", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:07:38"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 26250, "prev_id": 26249, "gap_s": 83, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:07:45"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 12251, "prev_id": 12250, "gap_s": 18, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:07:49"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 5099, "prev_id": 5098, "gap_s": 9683, "band": "5400-10800", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:08:03"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 31903, "prev_id": 31902, "gap_s": 937, "band": "600-1200", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:08:16"}
+{"chat": "computer_ethics", "chat_id": 1449591731, "message_id": 4063, "prev_id": 4062, "gap_s": 37, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:10:16"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 12349, "prev_id": 12348, "gap_s": 2566, "band": "2400-5400", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:10:27"}
+{"chat": "t2i", "chat_id": 1375240639, "message_id": 3811, "prev_id": 3810, "gap_s": 530, "band": "300-600", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:10:38"}
+{"chat": "RS", "chat_id": 1424968769, "message_id": 8230, "prev_id": 8229, "gap_s": 574, "band": "300-600", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:10:45"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 14730, "prev_id": 14729, "gap_s": 5817, "band": "5400-10800", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:11:06"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 11471, "prev_id": 11470, "gap_s": 10, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:11:14"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 2403, "prev_id": 2402, "gap_s": 4, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:13:00"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 36262, "prev_id": 36261, "gap_s": 144, "band": "120-300", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:13:09"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 12905, "prev_id": 12904, "gap_s": 3546, "band": "2400-5400", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:13:24"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 5534, "prev_id": 5532, "gap_s": 6277, "band": "5400-10800", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:13:27"}
+{"chat": "datamining", "chat_id": 1525042706, "message_id": 2462, "prev_id": 2461, "gap_s": 47, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:13:32"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 26772, "prev_id": 26771, "gap_s": 169, "band": "120-300", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:15:24"}
+{"chat": "computer_ethics", "chat_id": 1449591731, "message_id": 3962, "prev_id": 3961, "gap_s": 317, "band": "300-600", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:15:27"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 32981, "prev_id": 32980, "gap_s": 722, "band": "600-1200", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:15:35"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 4352, "prev_id": 4351, "gap_s": 2636, "band": "2400-5400", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:15:39"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 28692, "prev_id": 28691, "gap_s": 6345, "band": "5400-10800", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:15:44"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 3208, "prev_id": 3207, "gap_s": 308, "band": "300-600", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:15:51"}
+{"chat": "MAS", "chat_id": 1171936095, "message_id": 3433, "prev_id": 3432, "gap_s": 2008, "band": "1200-2400", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:16:06"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 33088, "prev_id": 33087, "gap_s": 345, "band": "300-600", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:16:15"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 3764, "prev_id": 3763, "gap_s": 58, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:16:19"}
+{"chat": "computer_ethics", "chat_id": 1449591731, "message_id": 3886, "prev_id": 3885, "gap_s": 3529, "band": "2400-5400", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:16:57"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 31853, "prev_id": 31852, "gap_s": 7670, "band": "5400-10800", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:17:06"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 24135, "prev_id": 24134, "gap_s": 25, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:17:46"}
+{"chat": "t2i", "chat_id": 1375240639, "message_id": 2471, "prev_id": 2470, "gap_s": 2007, "band": "1200-2400", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:17:56"}
+{"chat": "datamining", "chat_id": 1525042706, "message_id": 2123, "prev_id": 2122, "gap_s": 869, "band": "600-1200", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:18:33"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 34511, "prev_id": 34510, "gap_s": 7, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:18:38"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 37929, "prev_id": 37928, "gap_s": 611, "band": "600-1200", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:19:23"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 31606, "prev_id": 31600, "gap_s": 6051, "band": "5400-10800", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:19:28"}
+{"chat": "RS", "chat_id": 1424968769, "message_id": 7009, "prev_id": 7008, "gap_s": 232, "band": "120-300", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:19:35"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 11141, "prev_id": 11140, "gap_s": 136, "band": "120-300", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:20:07"}
+{"chat": "t2i", "chat_id": 1375240639, "message_id": 3257, "prev_id": 3256, "gap_s": 768, "band": "600-1200", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:20:19"}
+{"chat": "CSGeneral", "chat_id": 1153313117, "message_id": 35099, "prev_id": 35098, "gap_s": 237, "band": "120-300", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:20:38"}
+{"chat": "anndl", "chat_id": 1354492730, "message_id": 26135, "prev_id": 26129, "gap_s": 8158, "band": "5400-10800", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:20:54"}
+{"chat": "NLP", "chat_id": 1466247943, "message_id": 5276, "prev_id": 5275, "gap_s": 38, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:20:59"}
+{"chat": "RS", "chat_id": 1424968769, "message_id": 6547, "prev_id": 6546, "gap_s": 2503, "band": "2400-5400", "label": "unsure", "source": "human", "labelled_at": "2026-11-01T20:21:03"}
+{"chat": "UAI", "chat_id": 1488379863, "message_id": 13528, "prev_id": 13527, "gap_s": 1882, "band": "1200-2400", "label": "new", "source": "human", "labelled_at": "2026-11-01T20:21:13"}
+{"chat": "RS", "chat_id": 1424968769, "message_id": 6516, "prev_id": 6515, "gap_s": 37, "band": "0-120", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:21:18"}
+{"chat": "computer_ethics", "chat_id": 1449591731, "message_id": 4933, "prev_id": 4932, "gap_s": 369, "band": "300-600", "label": "same", "source": "human", "labelled_at": "2026-11-01T20:21:20"}

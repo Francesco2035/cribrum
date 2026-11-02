@@ -1,0 +1,25 @@
+# Words left out of the topic keywords (they still count for the embeddings). See docs/it/code/config/topics.md.
+# English function words come from scikit-learn's list and need not be repeated here.
+
+italian:
+  [a, ad, al, alla, alle, allo, ai, agli, anche, ancora, avere, avete, aveva, avevo, abbiamo, ha, hai, hanno, ho,
+   c, che, chi, ci, come, con, cosa, cui, da, dal, dalla, dalle, dai, degli, dei, del, della, delle, dello, di,
+   dove, e, ed, era, essere, fa, fare, faccio, fatto, gli, già, giu, i, il, in, io, la, le, lei, li, lo, loro, lui,
+   ma, me, mi, mia, mio, molto, ne, nei, nel, nella, nelle, nello, noi, non, nostro, o, ogni, per, perché, perche,
+   però, pero, più, piu, poi, po, proprio, qua, quale, quali, qualche, quando, quanto, quella, quelle, quelli,
+   quello, questa, queste, questi, questo, qui, se, sei, sembra, senza, si, sia, siamo, siete, sono, sta, stato,
+   stessa, stesso, su, sul, sulla, sui, suo, sua, tra, fra, tu, tua, tuo, tutti, tutto, tutte, un, una, uno, va,
+   vi, voi, già, cioè, cioe, comunque, quindi, allora, invece, oppure, magari, solo, tipo, credo, penso, dire,
+   detto, dice, sai, so, sa, sapete, puoi, può, puo, posso, possono, devo, deve, devi, bisogna, vorrei, voglio,
+   serve, dovrebbe, potrebbe, stesso, altro, altra, altri, altre, volta, volte, cosa, cose, modo, caso, parte, ora,
+   oggi, ieri, domani, adesso, prima, dopo, sempre, mai, ecco, beh, boh, eh, ah, oh, mah]
+
+elisions:   # what is left of "all'esame", "dell'anno", "c'è" once the apostrophe splits the word
+  [all, dell, nell, sull, dall, quell, quest, un, è, po]
+
+chat:
+  [ti, così, cosi, niente, nulla, tanto, meglio, bene, tipo, ecc, etc, sennò, senno, cmq, ok, vabbè, vabbe,
+   ciao, salve, buongiorno, buonasera, grazie, mille, ok, okay, okok, si, sì, no, raga, ragazzi, guys, hi, hello,
+   hey, thanks, thank, thx, ty, yes, yeah, yep, lol, xd, haha, ahah, ahaha, ahahah, scusate, scusa, sorry,
+   please, pls, qualcuno, anyone, someone, know, think, just, like, really, don, dont, ll, ve, re, did, does,
+   got, gonna, want, need, make, sure, good, right, guess, maybe, media]
