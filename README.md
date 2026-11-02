@@ -8,7 +8,7 @@ At the moment only Telegram is supported, through the JSON export of a chat. Onl
 
 ## What you get
 
-![Obsidian graph of the generated vault, then a facet note and a (chat, facet) note](docs/assets/graph.gif)
+![Obsidian graph of the generated vault, then a facet note and a (chat, facet) note](docs/assets/demo.gif)
 
 *The graph of the generated vault, a shared facet, and the note with the conversations of one chat about it (messages blurred).*
 
