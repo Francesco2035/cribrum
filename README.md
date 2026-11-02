@@ -8,12 +8,9 @@ At the moment only Telegram is supported, through the JSON export of a chat. Onl
 
 ## What you get
 
-<!--
-Demo video: drag the .mp4 into this file while editing it on github.com,
-GitHub uploads it and puts the link here. GIFs and images go in docs/assets/.
--->
+![Obsidian graph of the generated vault, then a facet note and a (chat, facet) note](docs/assets/graph.gif)
 
-![Obsidian graph of the generated vault](docs/assets/graph.gif)
+*The graph of the generated vault, a shared facet, and the note with the conversations of one chat about it (messages blurred).*
 
 The vault has one note per chat, one note per shared theme (a *facet*), and one note for every (chat, facet) pair, which quotes the conversations of that chat about that theme. In the graph view, chats are connected to each other through the facets they share, and each chat also has its own local concepts.
 
